@@ -9,4 +9,9 @@ header, main, footer {
   /* Add additional styles for each section as needed */
 }
 
+p {
+  text-align: justify; 
+  font: system-ui; 
+}
+
 /* Add styles for specific elements like navigation, headings, paragraphs, etc. */
