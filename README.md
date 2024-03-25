@@ -1,2 +1,6 @@
 # antoinewojcik.github.io
-one step at a time
+_one step at a time_ 
+
+Projects : 
+. mapping HE fundings and their main characteristics 
+. build website stylesheet / logo (?)
