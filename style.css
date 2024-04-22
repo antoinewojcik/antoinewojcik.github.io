@@ -9,6 +9,10 @@ header, main, footer {
   /* Add additional styles for each section as needed */
 }
 
+header {
+  font-style: helvetica;
+}
+
 p {
   text-align: justify; 
   font: system-ui; 
