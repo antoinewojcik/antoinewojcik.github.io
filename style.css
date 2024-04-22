@@ -1,5 +1,5 @@
 body {
-  font-family: sans-serif;
+  font-family: helvetica;
   margin: 0;
   padding: 0;
 }
@@ -10,6 +10,8 @@ header, main, footer {
 }
 
 header {
+  padding-left: auto;
+  padding-right: auto;
   font-style: helvetica;
 }
 
