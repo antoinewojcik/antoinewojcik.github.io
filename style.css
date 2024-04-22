@@ -1,7 +1,5 @@
 body {
   font-family: helvetica;
-  margin: 0;
-  padding: 0;
 }
 
 header, main, footer {
@@ -17,7 +15,6 @@ header {
 
 p {
   text-align: justify; 
-  font: system-ui; 
 }
 
 /* Add styles for specific elements like navigation, headings, paragraphs, etc. */
