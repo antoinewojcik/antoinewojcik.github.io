@@ -1,5 +1,7 @@
 body {
   font-family: helvetica;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 header, main, footer {
