@@ -12,7 +12,7 @@ header, main, footer {
 header {
   padding-left: 0 auto;
   padding-right: 0 auto;
-  font-style: helvetica;
+  font-family: "Lucida Console";
 }
 
 p {
