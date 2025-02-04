@@ -1,5 +1,7 @@
 body {
   font-family: helvetica;
+  background-color: #F5E6D3;
+  width: 60%;
   margin-left: 0 auto;
   margin-right: 0 auto;
 }
@@ -12,7 +14,7 @@ header, main, footer {
 header {
   padding-left: 0 auto;
   padding-right: 0 auto;
-  font-family: "Lucida Console";
+ 
 }
 
 p {
