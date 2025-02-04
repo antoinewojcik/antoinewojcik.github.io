@@ -1,10 +1,12 @@
 body {
   font-family: helvetica;
-  background-color: #F5E6D3;
+  background-color: #AA767C;
   width: 60%;
   height: 60%;
   margin-left: 0 auto;
   margin-right: 0 auto;
+  margin-top: 5%;
+  color: #FEC196; 
 }
 
 header, main, footer {
@@ -12,11 +14,12 @@ header, main, footer {
 }
 
 header {
-  max-height:20%;
+  color:
 }
 
 p {
   text-align: justify; 
+  color: #FEC196;
 }
 
 /* Add styles for specific elements like navigation, headings, paragraphs, etc. */
