@@ -1,6 +1,7 @@
 body {
   font-family: helvetica;
   background-color: white;
+  display: flex;
   width: 60%;
   height: 60%;
   margin-left: 0 auto;
