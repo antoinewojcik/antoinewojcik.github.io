@@ -1,12 +1,12 @@
 body {
   font-family: helvetica;
-  background-color: #AA767C;
+  background-color: white;
   width: 60%;
   height: 60%;
   margin-left: 0 auto;
   margin-right: 0 auto;
   margin-top: 5%;
-  color: #FEC196; 
+  color: dark-blue; 
 }
 
 header, main, footer {
